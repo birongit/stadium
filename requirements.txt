@@ -1,5 +1,5 @@
 numpy
-black
+black==19.10b0
 flake8
 pytest
 pytest-cov
